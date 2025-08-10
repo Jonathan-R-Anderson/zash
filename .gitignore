@@ -1,4 +1,6 @@
 Makefile
+!/Makefile
+zash
 tags
 TAGS
 *.o
